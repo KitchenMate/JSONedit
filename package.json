@@ -6,19 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mb21/JSONedit.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/mb21/JSONedit.git",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mb21/JSONedit/issues"
   },
   "homepage": "https://github.com/mb21/JSONedit#readme",
   "dependencies": {
-      "bootstrap": "^3.3",
-      "angular": "^1.2",
-      "angular-ui-sortable": "0.12.x"
+    "angular": "^1.2",
+    "angular-ui-sortable": "0.12.x",
+    "bootstrap": "^3.3"
   }
 }
